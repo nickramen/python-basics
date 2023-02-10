@@ -2,7 +2,7 @@
 def saludar():
     print("Hey nicole, how's the #100DaysOfCode challenge going?")
     
-    
+
 saludar()
 
 # crear una funcion que tenga parametros
