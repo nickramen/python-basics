@@ -10,7 +10,7 @@ integer5 = 0
 print(type(integer1))
 
 
-## Float data type represents real numbers with decimals.
+## Float: data type that represents real numbers with decimals.
 # Examples
 float1 = 10.23
 float2 = 85.87
