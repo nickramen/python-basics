@@ -1,0 +1,5 @@
+English: Hi my name is Nicole. I am learning programming with Python.
+Spanish: Hola mi nombre es Nicole. Estoy aprendiendo programación con Python.
+Korean: 안녕 나는 니콜이라고 해. 나는 파이턴으로 프로그래밍 배우고 있어.
+Italian: Ciao mi chiamo Nicola. Sto imparando a programmare con Python.
+Portuguese: Oi meu nome é Nicole. Estou aprendendo a programar com Python.
